@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="random_imgs">
+        <item>@drawable/logo</item>
+        <item>@drawable/canada</item>
+        <item>@drawable/roma</item>
+        <item>@drawable/ireland</item>
+        <item>@drawable/japan</item>
+        <item>@drawable/germany</item>
+        <item>@drawable/greece</item>
+        <item>@drawable/tomesti</item>
+    </integer-array>
+</resources>
